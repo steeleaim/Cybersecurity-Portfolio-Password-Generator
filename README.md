@@ -1,2 +1,1 @@
-# Cybersecurity-Portfolio-Password-Generator
-A python program to create a random secure password 
+This program implements random and string imports to use to generate a password with a stipulated length (10 characters in this case). The function implements the use of ascii letters + digits and punctuation to generate a strong password - better than password123 at least.
